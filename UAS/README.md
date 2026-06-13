@@ -14,6 +14,7 @@
 </ul>
 
 Berikut Adalah Source Code nya: 
-
-<li>Transpose Vector <br> <img width="1326" height="976" alt="SC-Transpose-vector" src="https://github.com/user-attachments/assets/1f7bfcaf-6981-4ba3-927f-c5e2c31b1fd7" />
-</li>
+<ul>
+  <li>Transpose Vector <br> <img width="1326" height="976" alt="SC-Transpose-vector" src="https://github.com/user-attachments/assets/1f7bfcaf-6981-4ba3-927f-c5e2c31b1fd7" />
+  </li>
+</ul>
