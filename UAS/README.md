@@ -15,7 +15,7 @@
 
 Berikut Adalah Source Code nya: 
 <ul>
-  <li>Transpose Vector: <br> <img width="1326" height="976" alt="SC-Transpose-vector" src="https://github.com/user-attachments/assets/1f7bfcaf-6981-4ba3-927f-c5e2c31b1fd7" />
+  <li>Transpose Vector: <br> <img width="663" height="488" alt="SC-Transpose-vector" src="https://github.com/user-attachments/assets/1f7bfcaf-6981-4ba3-927f-c5e2c31b1fd7" />
   </li>
   <li>Transpose Matrix: <br> <img width="1526" height="1280" alt="SC-Transpose-Matrix" src="https://github.com/user-attachments/assets/9a29ab3a-5573-42f1-a741-8460261d9292" />
 </li>
