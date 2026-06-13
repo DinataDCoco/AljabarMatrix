@@ -1,4 +1,4 @@
-<h1 font-family:helvetica>PROJEK UAS ALJABAR MATRIX</h1>
+<h1 font-family🐤>PROJEK UAS ALJABAR MATRIX</h1>
 
 <h6>NAMA   : Dimas Aji Dinata</h6>
 <h6>NPM    : 2515061057</h6>
