@@ -5,8 +5,9 @@ def transpose_vector():
     vector_tambah = []
 
     jumlah_nilai = int(input("\nIngin memasukkan berapa nilai? "))
+    print("")
     for i in range(jumlah_nilai):
-        input_vector = int(input(f"\nInput nilai ke-{i + 1}: "))
+        input_vector = int(input(f"Input nilai ke-{i + 1}: "))
         vector.append(input_vector)
         vector_tambah.append(input_vector)
         t_vector.append(vector_tambah)
@@ -28,7 +29,7 @@ def transpose_matrix():
     for i in range(baris):
         print("")
         for n in range(kolom):
-            nilai_baris = int(input(f"\nnilai baris ke-{i+1}, kolom ke-{n+1}: "))
+            nilai_baris = int(input(f"nilai baris ke-{i+1}, kolom ke-{n+1}: "))
             matrix_simpan.append(nilai_baris)
         matrix.append(matrix_simpan)
         matrix_simpan = []
