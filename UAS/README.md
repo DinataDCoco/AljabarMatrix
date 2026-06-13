@@ -15,12 +15,18 @@
 
 Berikut Adalah Source Code nya: 
 
-  Contoh cara Memanggil di file lain:
+Contoh cara Memanggil di file lain:
 <br>
-  <img width="302" height="203" alt="SC-Panggil-Fungsi" src="https://github.com/user-attachments/assets/44093724-6d85-42d3-b4c8-85ea9917b911" />
+<img width="302" height="203" alt="SC-Panggil-Fungsi" src="https://github.com/user-attachments/assets/44093724-6d85-42d3-b4c8-85ea9917b911" />
 
 <ul>
-  <li>Transpose Vector: <br> <img width="663" height="488" alt="SC-Transpose-vector" src="https://github.com/user-attachments/assets/1f7bfcaf-6981-4ba3-927f-c5e2c31b1fd7" />
+  <li>Transpose Vector: 
+    <br> 
+    <img width="663" height="488" alt="SC-Transpose-vector" src="https://github.com/user-attachments/assets/1f7bfcaf-6981-4ba3-927f-c5e2c31b1fd7" />
+    <br>
+    Output:
+    <br>
+    <img width="279" height="222" alt="image" src="https://github.com/user-attachments/assets/d0b1a3a1-4203-4ba2-a114-8c01aa4d35a5" />
   </li>
   <li>Transpose Matrix: <br> <img width="763" height="640" alt="SC-Transpose-Matrix" src="https://github.com/user-attachments/assets/9a29ab3a-5573-42f1-a741-8460261d9292" />
 </li>
