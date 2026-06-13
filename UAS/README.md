@@ -10,5 +10,5 @@
   <li>Transpose Matrix</li>
   <li>Penjumlahan Matrix</li>
   <li>Pengurangan Matrix</li>
-  <li><Perkalian Matrix</li>
+  <li>Perkalian Matrix</li>
 </ul>
