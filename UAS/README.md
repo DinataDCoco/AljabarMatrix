@@ -4,4 +4,11 @@
 <h6>NPM    : 2515061057</h6>
 <h6>KELAS  : TI A</h6>
 <br>
-<p>Berikut adalah file projek UAS</p>
+<p>Pada Ujian AKhir Semester pada mata kuliah Aljabar Matrix, kami diminta untuk membuat sebuah Module/Library python yang memuat rumus-rumus pada Aljabar Matrix yang disimpan di dalam fungsi dan bisa dipanggil di file python lain. Pada projek ini saya membuat 5 fungsi rumus Aljabar MAtrix yang bisa dipanggil, yaitu:</p>
+<ul>
+  <li>Transpose Vector</li>
+  <li>Transpose Matrix</li>
+  <li>Penjumlahan Matrix</li>
+  <li>Pengurangan Matrix</li>
+  <li><Perkalian Matrix</li>
+</ul>
