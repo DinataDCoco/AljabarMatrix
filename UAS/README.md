@@ -15,8 +15,9 @@
 
 Contoh cara memanggil di file lain:
 <br>
-Berikut Source Code nya: 
 <img width="302" height="203" alt="SC-Panggil-Fungsi" src="https://github.com/user-attachments/assets/44093724-6d85-42d3-b4c8-85ea9917b911" />
+<br>
+Berikut Source Code nya: 
 
 <ul>
   <li>Transpose Vector: 
