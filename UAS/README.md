@@ -4,7 +4,7 @@
 <h6>NPM    : 2515061057</h6>
 <h6>KELAS  : TI A</h6>
 
-<h6>Link Video Penjelasan 📷: </h6>
+<h6>Link Video Penjelasan 📷: https://youtu.be/eIea18MgubI</h6>
 
 <p>Pada Ujian AKhir Semester pada mata kuliah Aljabar Matrix, kami diminta untuk membuat sebuah <strong>Module/Library</strong> python yang memuat rumus-rumus pada Aljabar Matrix yang disimpan di dalam fungsi dan bisa dipanggil di file python lain. Pada projek ini saya membuat sebuah Module/Library berisi 5 fungsi yang memuat rumus-rumus Aljabar Matrix yang bisa dipanggil, yaitu:</p>
 <ul>
