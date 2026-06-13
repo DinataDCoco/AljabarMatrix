@@ -16,7 +16,8 @@
 Berikut Adalah Source Code nya: 
 
 Contoh cara Memanggil di file lain:
-<img width="604" height="406" alt="SC-Panggil-Fungsi" src="https://github.com/user-attachments/assets/44093724-6d85-42d3-b4c8-85ea9917b911" />
+<br>
+<img width="302" height="203" alt="SC-Panggil-Fungsi" src="https://github.com/user-attachments/assets/44093724-6d85-42d3-b4c8-85ea9917b911" />
 
 <ul>
   <li>Transpose Vector: <br> <img width="663" height="488" alt="SC-Transpose-vector" src="https://github.com/user-attachments/assets/1f7bfcaf-6981-4ba3-927f-c5e2c31b1fd7" />
